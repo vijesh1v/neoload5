@@ -14,5 +14,5 @@ jobs:
         shell: powershell
         run: |
           $neoloadPath = 'C:\Program Files\NeoLoad 9.1\bin\NeoLoadCmd.exe'
-          $projectPath = "$($env:GITHUB_WORKSPACE)\testsd.nlp"
+          $projectPath = "$($env:GITHUB_WORKSPACE)\neoload5.nlp"
           & $neoloadPath -project $projectPath -launch "scenario1" -noGUI
