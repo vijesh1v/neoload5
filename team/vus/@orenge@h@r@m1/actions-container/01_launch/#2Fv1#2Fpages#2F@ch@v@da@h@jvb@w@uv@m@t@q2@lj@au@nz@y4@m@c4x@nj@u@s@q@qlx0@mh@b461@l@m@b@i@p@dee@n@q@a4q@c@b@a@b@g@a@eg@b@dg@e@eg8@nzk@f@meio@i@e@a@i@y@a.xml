@@ -1,0 +1,103 @@
+<http-page executeResourcesDynamically="false"
+    name="/v1/pages/ChVDaHJvbWUvMTQ2LjAuNzY4MC4xNjUSQQlx0MhB461LMBIPDeeNQA4qCBABGAEgBDgEEg8NzkFMeioIEAIYA"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@orenge@h@r@m1/%resources%/recorded-artifacts/0e864f56-0187-4125-8f6e-06c3504a1fdd.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="0e864f56-0187-4125-8f6e-06c3504a1fdd">
+    <embedded-action>11a51372-7244-485f-a160-bd5a20ddcc5b</embedded-action>
+    <embedded-action>b24b2eb1-f480-470f-a117-8a4d7f49e1fc</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_d331a812-f58f-4b57-aa3e-66edba916e34.jpg</screenshotFileDescription>
+</http-page>
+<http-action actionType="1" contentType="font/woff2"
+    eTag="&quot;651c-6471308240f81&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 29 Dec 2025 08:28:46 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2"
+    path="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-regular.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@orenge@h@r@m1/%resources%/recorded-artifacts/0e864f56-0187-4125-8f6e-06c3504a1fdd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="11a51372-7244-485f-a160-bd5a20ddcc5b" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_b81decb0-7dba-4617-9142-613d5600a9ff.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-GB,en-US;q=0.9,en;q=0.8,ml;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="orangehrm=fmtao5edsn6hhbvq47q8msm8oo"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="opensource-demo.orangehrmlive.com"/>
+    <header name="Origin" value="https://opensource-demo.orangehrmlive.com"/>
+    <header name="Referer" value="https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;146&quot;, &quot;Not-A.Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;146&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx&#xd;
+Date: Fri, 27 Mar 2026 21:02:19 GMT&#xd;
+Content-Type: font/woff2&#xd;
+Content-Length: 25884&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 29 Dec 2025 08:28:46 GMT&#xd;
+ETag: "651c-6471308240f81"&#xd;
+Accept-Ranges: bytes&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+Access-Control-Allow-Origin: in-app-marketing.orangehrm.com</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="font/woff2"
+    eTag="&quot;64dc-6471308240beb&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Mon, 29 Dec 2025 08:28:46 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET"
+    name="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2"
+    path="/web/dist/fonts/nunito-sans-v6-latin-ext_latin-600.woff2"
+    postType="6"
+    recordedArtifactZipFileName="team/vus/@orenge@h@r@m1/%resources%/recorded-artifacts/0e864f56-0187-4125-8f6e-06c3504a1fdd.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="opensource-demo.orangehrmlive.com"
+    slaProfileEnabled="false" uid="b24b2eb1-f480-470f-a117-8a4d7f49e1fc" useKeepAlive="false">
+    <requestContentFileDescription>recorded-requests/req_ab49b315-7ed7-4079-b2da-5666bba96331.txt</requestContentFileDescription>
+    <header name="Accept" value="*/*"/>
+    <header name="Accept-Encoding" value="gzip, deflate, br, zstd"/>
+    <header name="Accept-Language" value="en-GB,en-US;q=0.9,en;q=0.8,ml;q=0.7"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="orangehrm=fmtao5edsn6hhbvq47q8msm8oo"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="opensource-demo.orangehrmlive.com"/>
+    <header name="Origin" value="https://opensource-demo.orangehrmlive.com"/>
+    <header name="Referer" value="https://opensource-demo.orangehrmlive.com/web/dist/css/chunk-vendors.css?v=1763650546848"/>
+    <header name="sec-ch-ua" value="&quot;Chromium&quot;;v=&quot;146&quot;, &quot;Not-A.Brand&quot;;v=&quot;24&quot;, &quot;Google Chrome&quot;;v=&quot;146&quot;"/>
+    <header name="sec-ch-ua-mobile" value="?0"/>
+    <header name="sec-ch-ua-platform" value="&quot;Windows&quot;"/>
+    <header name="Sec-Fetch-Dest" value="font"/>
+    <header name="Sec-Fetch-Mode" value="cors"/>
+    <header name="Sec-Fetch-Site" value="same-origin"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Server: nginx&#xd;
+Date: Fri, 27 Mar 2026 21:02:19 GMT&#xd;
+Content-Type: font/woff2&#xd;
+Content-Length: 25820&#xd;
+Connection: keep-alive&#xd;
+Last-Modified: Mon, 29 Dec 2025 08:28:46 GMT&#xd;
+ETag: "64dc-6471308240beb"&#xd;
+Accept-Ranges: bytes&#xd;
+X-Content-Type-Options: nosniff&#xd;
+X-XSS-Protection: 1; mode=block&#xd;
+Access-Control-Allow-Origin: in-app-marketing.orangehrm.com</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
