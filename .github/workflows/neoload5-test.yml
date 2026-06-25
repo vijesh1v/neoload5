@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
 jobs:
   run-neoload-test:
-    runs-on: neoload5 # Ensure your local runner is 'Active'
+    runs-on: neoload5-new # Ensure your local runner is 'Active'
 
     steps:
       - name: Checkout Code
